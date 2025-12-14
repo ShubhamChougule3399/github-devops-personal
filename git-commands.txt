@@ -1,0 +1,39 @@
+   2 git init
+   3 git status
+   4 git add .
+   5 git status
+   6 git rm --cached .\testing.py
+   7 git status
+   8 git add .
+git status
+git commit -m "testing adding file"
+  git status
+
+2 dir
+   3 git status
+   4 git remote -v
+   5 git remote add origin https://github.com/ShubhamChougule3399/github-devops-copy.git
+   6 git remote -v
+   7 git remote set-url origin https://github.com/ShubhamCho...
+   8 git remote -v
+   9 git push origin master
+
+
+New commads has been added
+
+11 git status
+  12 history
+  13 git status
+  14 git add .\git_commands.txt
+  15 git status
+  16 git commit "Imp git commands"
+  17 git commit -m "Imp git commands"
+  18 git status
+  19 git remote add origin https://github.com/ShubhamChougule3399/github-for-devops.git
+  20 git remote -v
+22 git remote -v
+  23 git push origin master
+  24 git status
+  25 git remote -v
+
+new commands added
